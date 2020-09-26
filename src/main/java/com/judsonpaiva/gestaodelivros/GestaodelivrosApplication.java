@@ -8,6 +8,7 @@ public class GestaodelivrosApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GestaodelivrosApplication.class, args);
+		System.out.println("Bom dia Judson Paiva!!");
 	}
 
 }
